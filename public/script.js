@@ -16,7 +16,7 @@ window.addEventListener('scroll', function(){
 
 
 var typed = new Typed('.typed', {
-  strings: ["Bonjour à tous et à toutes, je me présente je m'appelle Axel", "Après avoir eu l'obtention du baccalauréats, j'ai décider d'intégrer une école qui forme sur un BUT, la formations proposé est Réseaux et Télécommunication, j'apprends a coder du language C, HTML, mais aussi construire un réseaux, je m'éxerce encore en anglais. Cette formations est bénéfique car elle est assez général pour apprendre certaines compétances. Je suis étudiant mais aussi j'ai un travail a coter les week-end, qui consiste a entrainer des enfants au Basket-Ball pour améliorer mon sociable et c'est une passion."],
+  strings: ["Hello to all, my name is Axel", "After obtaining the baccalaureate, I decided to integrate a school thaat trains on a GOAL, the training offered is Networks and Telecommunications, I learn to code C langage, HTML, but also build a network, I still pratice in English. This training is beneficial because it is general enough to learn certain skills. I am a student but i also have a job on the weekends, which consists of coaching children i Basketball to improve my sociability and it is a passion. "],
   typeSpeed: 20,
 });
   
